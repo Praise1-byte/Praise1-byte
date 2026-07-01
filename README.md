@@ -97,7 +97,7 @@ const praise = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praise1-byte&theme=github-dark"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/graph?username=Praise1-byte&theme=github-dark"/>
 
 </div>
 
@@ -107,7 +107,7 @@ const praise = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Praise1-byte&theme=algolia&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Praise1-byte&theme=darkhub&row=1&column=7&no-frame=true"/>
 
 </div>
 
