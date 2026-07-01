@@ -209,7 +209,7 @@ E --> F[Impact]
 # 📅 Coding Journey
 
 ```txt
-2025 ───────── Started Full Stack Development
+2024 ───────── Started Full Stack Development
 
       ↓
 
@@ -313,21 +313,7 @@ Growth.
 
 ---
 
-# 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-No activity tracked yet.
-```
-<!--END_SECTION:waka-->
-
----
-
-# ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+#
 ---
 
 # ☕ Support My Work
