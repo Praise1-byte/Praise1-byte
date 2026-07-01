@@ -72,8 +72,7 @@ const praise = {
 </div>
 
 ---
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -90,8 +89,6 @@ const praise = {
 <img src="https://streak-stats.demolab.com?user=Praise1-byte&theme=github-dark-blue&hide_border=true"/>
 
 </div>
-
----
 
 # 📈 Contribution Graph
 
