@@ -76,9 +76,9 @@ const praise = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-dcazyvyq0-adeyemipraise2708-7642s-projects.vercel.app/api?username=Praise1-byte&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats-lake-rho-gk6j2p7wfc.vercel.app/api?username=Praise1-byte&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats-dcazyvyq0-adeyemipraise2708-7642s-projects.vercel.app/api/top-langs/?username=Praise1-byte&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-lake-rho-gk6j2p7wfc.vercel.app/api/top-langs/?username=Praise1-byte&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
