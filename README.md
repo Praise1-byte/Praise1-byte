@@ -103,15 +103,6 @@ const praise = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Praise1-byte&theme=darkhub&row=1&column=7&no-frame=true"/>
-
-</div>
-
----
 
 # 📊 GitHub Metrics
 
