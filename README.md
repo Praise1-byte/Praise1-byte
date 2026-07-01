@@ -97,7 +97,7 @@ const praise = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/graph?username=Praise1-byte&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praise1-byte&theme=github-dark"/>
 
 </div>
 
